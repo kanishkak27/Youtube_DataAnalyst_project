@@ -79,7 +79,7 @@ Each of these challenges improved my problem-solving and debugging skills signif
 ---
 
 ##  Time Spent
-Approximately **10–12 hours** were dedicated to:
+Approximately **8-9 week days** were dedicated to:
 - Data exploration and cleaning  
 - Visualization design  
 - Documentation and presentation setup  
