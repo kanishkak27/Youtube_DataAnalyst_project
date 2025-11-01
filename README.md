@@ -102,4 +102,22 @@ Approximately **10–12 hours** were dedicated to:
 
 ---
 
-## 📂 Project Structure
+
+---
+
+##  Conclusion
+This project was a complete hands-on experience that combined data wrangling, analysis, and visualization — helping me understand both the **technical** and **storytelling** sides of data analytics.  
+It strengthened my Python data stack knowledge and improved my approach toward **real-world problem-solving with data**.
+
+---
+
+##  Connect with Me
+I’m always open to collaboration, learning, and discussing data-driven ideas!  
+📩 **Email:** [kanishka.k2760@gmail.com]
+💼 **LinkedIn:** [www.linkedin.com/in/kanishka-khandelwal27]  
+🐙 **GitHub:** [https://github.com/kanishkak27]
+
+---
+
+###  Don’t forget to star this repo if you found it helpful!
+
