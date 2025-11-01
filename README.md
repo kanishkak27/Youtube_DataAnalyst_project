@@ -1,6 +1,6 @@
-# 🎥 YouTube Data Analysis Using Python
+#  YouTube Data Analysis Using Python
 
-## 📌 Project Overview
+##  Project Overview
 This project, **YouTube Data Analysis**, is an end-to-end data analytics project built using **Python**.  
 It focuses on exploring and analyzing YouTube video data to uncover trends, engagement patterns, and insights that explain why certain videos perform better than others.  
 
@@ -8,7 +8,7 @@ By leveraging libraries like **Pandas, Matplotlib, Seaborn, and Plotly**, I perf
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Understand what drives video performance on YouTube.
 - Identify correlations between **views, likes, comments, and categories**.
 - Visualize engagement metrics using clear and interactive plots.
@@ -16,17 +16,17 @@ By leveraging libraries like **Pandas, Matplotlib, Seaborn, and Plotly**, I perf
 
 ---
 
-## 🧩 Key Features
-✅ Data cleaning and preprocessing using **Pandas**  
-✅ Exploratory Data Analysis (EDA) for statistical insights  
-✅ Interactive charts using **Plotly**  
-✅ Visual trend exploration with **Matplotlib** and **Seaborn**  
-✅ Correlation heatmaps, category-wise analysis, and top-performing video metrics  
-✅ Insights summary for better data storytelling  
+##  Key Features
+ Data cleaning and preprocessing using **Pandas**  
+ Exploratory Data Analysis (EDA) for statistical insights  
+ Interactive charts using **Plotly**  
+ Visual trend exploration with **Matplotlib** and **Seaborn**  
+ Correlation heatmaps, category-wise analysis, and top-performing video metrics  
+ Insights summary for better data storytelling  
 
 ---
 
-## 💻 Tech Stack & Libraries Used
+##  Tech Stack & Libraries Used
 | Library | Purpose |
 |----------|----------|
 | **Python** | Core programming language |
@@ -38,7 +38,7 @@ By leveraging libraries like **Pandas, Matplotlib, Seaborn, and Plotly**, I perf
 
 ---
 
-## 📊 What I Learned
+##  What I Learned
 - Conducting complete **Exploratory Data Analysis (EDA)** from raw data to insights  
 - Cleaning inconsistent or missing data effectively  
 - Designing compelling **data visualizations** that communicate findings clearly  
@@ -48,7 +48,7 @@ By leveraging libraries like **Pandas, Matplotlib, Seaborn, and Plotly**, I perf
 
 ---
 
-## 📘 Project Description
+##  Project Description
 This project analyzes a dataset containing YouTube video statistics such as:
 - **Title**
 - **Views**
@@ -67,7 +67,7 @@ All insights are supported with clear and appealing visualizations to make data 
 
 ---
 
-## ⚙️ Challenges Faced
+##  Challenges Faced
 - Handling **missing and inconsistent data** within the dataset  
 - Managing **large dataframes** efficiently during analysis  
 - Creating clean, minimal, and non-overlapping visualizations  
@@ -78,7 +78,7 @@ Each of these challenges improved my problem-solving and debugging skills signif
 
 ---
 
-## ⏱️ Time Spent
+##  Time Spent
 Approximately **10–12 hours** were dedicated to:
 - Data exploration and cleaning  
 - Visualization design  
@@ -87,7 +87,7 @@ Approximately **10–12 hours** were dedicated to:
 
 ---
 
-## 🧠 Insights Gained
+##  Insights Gained
 - **Videos with high likes-to-views ratio** often come from specific content categories.  
 - **Engagement through comments** is a strong indicator of audience connection.  
 - Publishing frequency and topic relevance play a key role in overall channel performance.  
@@ -95,7 +95,7 @@ Approximately **10–12 hours** were dedicated to:
 
 ---
 
-## 🔍 Future Enhancements
+##  Future Enhancements
 - Add **sentiment analysis** on video comments to assess viewer emotions.  
 - Integrate a **dashboard (Streamlit/Power BI)** for real-time visualization.  
 - Automate YouTube data fetching via **YouTube Data API v3** for live analytics.
